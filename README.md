@@ -1,3 +1,7 @@
+# Notebooks
+
+Experimental notebooks for the project [The Eye of the Beholder](https://research-software-directory.org/projects/the-eye-of-the-beholder) of CWI, Amsterdam and the Netherlands eScience Center.
+
 # Badges
 
 | fair-software.nl recommendations | Example Badges |
